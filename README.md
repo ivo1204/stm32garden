@@ -1,2 +1,2 @@
 # stm32garden
-garden control
+garden control with STM32F103RCBT6  Blue Pill
